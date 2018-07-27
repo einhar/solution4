@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books xmlns="http://example.net/books/1.0" xmlns:a="http://example.net/author/1.0">
+    <book>
+        <a:author>
+            <a:name>John</a:name>
+            <a:surname>Applesed</a:surname>
+        </a:author>
+        <title>Missing opportunity</title>
+    </book>
+    <book>
+        <a:author>
+            <a:name>Mikołaj</a:name>
+            <a:surname>Kopernik</a:surname>
+        </a:author>
+        <title>O obrotach sfer niebieskich</title>
+    </book>
+</books>
